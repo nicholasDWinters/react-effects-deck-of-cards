@@ -1,0 +1,13 @@
+.Deck-img {
+    display: flex;
+    margin-top: 10%;
+}
+
+.Deck-btn {
+    display: flex;
+    margin-top: 20px;
+}
+
+.Deck {
+    margin-left: 20%;
+}
